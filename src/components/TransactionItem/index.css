@@ -1,0 +1,43 @@
+.list-heading-con1 {
+    display: flex;
+    padding: 12px 20px;
+    width: 100%;
+    border: 1px solid #cbd5e1;
+    border-top-width: 0px;
+    align-items: center;
+  }
+  
+  .title1 {
+    margin: 0px;
+    color: #475569;
+    width: 27%;
+    font-size: 13px;
+  }
+  
+  .delete-icon {
+    width: 20px;
+  }
+  
+  .delete-btn {
+    padding: 0px;
+    border-width: 0px;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    margin-left: 35px;
+    height: 20px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .title1 {
+      font-size: 12px;
+      width: 29%;
+    }
+    .list-heading-con1 {
+      padding: 12px 10px;
+    }
+    .delete-btn {
+      margin-left: 10px;
+    }
+  }
+  

@@ -1,0 +1,54 @@
+.list-item {
+    padding: 15px 25px;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    width: 30%;
+  }
+  
+  .green {
+    border: 1px solid #84cc16;
+    background-color: #ecfccb;
+  }
+  
+  .blue {
+    border: 1px solid #06b6d4;
+    background-color: #cffafe;
+  }
+  
+  .violet {
+    border: 1px solid #7c3aed;
+    background-color: #ede9fe;
+  }
+  
+  .money-details-img {
+    width: 50px;
+    margin-right: 25px;
+  }
+  
+  .balance {
+    color: #475569;
+    margin-bottom: 0px;
+    font-size: 12px;
+  }
+  
+  .in-rupees {
+    color: #475569;
+    font-size: 21px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .list-item {
+      width: 100%;
+      margin-bottom: 15px;
+    }
+    .money-details-img {
+      width: 60px;
+    }
+    .in-rupees {
+      font-size: 18px;
+    }
+  }
+  
