@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Emoji-Game/static/css/main.a978c2dd.css",
-    "main.js": "/Emoji-Game/static/js/main.523cf61a.js",
-    "static/js/787.8aaf5901.chunk.js": "/Emoji-Game/static/js/787.8aaf5901.chunk.js",
-    "index.html": "/Emoji-Game/index.html",
-    "main.a978c2dd.css.map": "/Emoji-Game/static/css/main.a978c2dd.css.map",
-    "main.523cf61a.js.map": "/Emoji-Game/static/js/main.523cf61a.js.map",
-    "787.8aaf5901.chunk.js.map": "/Emoji-Game/static/js/787.8aaf5901.chunk.js.map"
+    "main.css": "/Money-Manager/static/css/main.a978c2dd.css",
+    "main.js": "/Money-Manager/static/js/main.dfb964b8.js",
+    "static/js/787.8aaf5901.chunk.js": "/Money-Manager/static/js/787.8aaf5901.chunk.js",
+    "index.html": "/Money-Manager/index.html",
+    "main.a978c2dd.css.map": "/Money-Manager/static/css/main.a978c2dd.css.map",
+    "main.dfb964b8.js.map": "/Money-Manager/static/js/main.dfb964b8.js.map",
+    "787.8aaf5901.chunk.js.map": "/Money-Manager/static/js/787.8aaf5901.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a978c2dd.css",
-    "static/js/main.523cf61a.js"
+    "static/js/main.dfb964b8.js"
   ]
 }
